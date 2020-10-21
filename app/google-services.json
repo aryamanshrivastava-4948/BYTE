@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "447307260418",
+    "firebase_url": "https://bytes-45fac.firebaseio.com",
+    "project_id": "bytes-45fac",
+    "storage_bucket": "bytes-45fac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447307260418:android:df33969bad20235dfb3d1b",
+        "android_client_info": {
+          "package_name": "com.arylist.abyte"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447307260418-qu0uk690osvm1uempqvhru093f58omn4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqQgTpxwNDzKyOJyfJAsHHVPFATzQr-fM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447307260418-qu0uk690osvm1uempqvhru093f58omn4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
